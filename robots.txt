@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://watchweartime.netlify.app/sitemap.xml
+Sitemap: https://watchwear.vercel.app/sitemap.xml
